@@ -1,4 +1,4 @@
-# Artificial Intelligence on SMT32
+# Artificial Intelligence on STM32
 
 This repository provides application examples and resources that demonstrate Artificial Neural Networks running on STM32 microcontrollers and microprocessors. It illustrates and supports the STM32 AI Wiki articles that can be found here:
 
