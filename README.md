@@ -18,6 +18,6 @@ This repository is structured as follows:
 
 ------
 
-**More information: [http://www.st.com](https://www.st.com/stm32cubeai)**
+**More information at: [http://www.st.com](https://www.st.com/stm32cubeai)**
 
 **Copyright © 2020 STMicroelectronics**
