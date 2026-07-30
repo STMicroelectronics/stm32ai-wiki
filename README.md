@@ -1,23 +1,36 @@
-# Artificial Intelligence on STM32
+# STM32 Edge AI - Documentation Assets
 
-This repository provides application examples and resources that demonstrate Artificial Neural Networks running on STM32 microcontrollers and microprocessors. It illustrates and supports the STM32 AI Wiki articles that can be found here:
+This repository hosts downloadable assets that accompany the STMicroelectronics
+Edge AI documentation and tutorials (STM32Cube AI Studio, ST Edge AI Core, and
+related tools).
 
-<https://wiki.st.com/stm32mcu/wiki/Artificial_Intelligence_overview>
-
-Use the power of Deep Learning to enhance signal processing performance and increase productivity in your STM32 application. Create and map Artificial Neural Networks onto your STM32 (optimized code automatically generated) instead of building hand-crafted code.
-
-For more information about Neural Networks on STM32, please explore the dedicated page available on the ST website:
-
-<https://www.st.com/stm32cubeai>
+It provides supporting files - such as STM32CubeMX project files (`.ioc`),
+scripts, and snippets - that are referenced from the Edge AI documentation so
+users can quickly retrieve the material used in a given tutorial.
 
 ## Repository overview
 
-This repository is structured as follows:
+- `tutorials/` - assets grouped per tutorial (added as tutorials are published).
 
-- An [AI_resources](./AI_resources/) folder, containing dataset, models and scripts in relation with application examples.
+Each asset folder includes a short `README.md` describing the file, the tutorial
+it belongs to, the tool and version used to generate it, and its license.
+
+## License
+
+Unless stated otherwise in a subfolder, the content of this repository is
+provided under the **BSD-3-Clause** license. See [License.md](./License.md).
+
+Third-party content (for example datasets or scripts not authored by
+STMicroelectronics) is only included when its license permits redistribution,
+and its original license is preserved and clearly stated in the corresponding
+folder.
+
+## Contributing
+
+Please read the [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing.
 
 ------
 
-**More information at: [http://www.st.com](https://www.st.com/stm32cubeai)**
+**More information at: [https://www.st.com/st-edge-ai-suite](https://www.st.com/content/st_com/en/st-edge-ai-suite.html)**
 
-**Copyright © 2020 STMicroelectronics**
+**Copyright (C) 2026 STMicroelectronics**
